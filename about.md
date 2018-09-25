@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Anton Kravets aka kriffer. I am a software engineer, like Python, Linux and overall free software. 
+This blog contains my thoughts about Python and stuff related to it that come into mind while working on them. All ideas and code 
+are presented as is so if you find them useful I would be happy.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can find all of the source code at GitHub:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[kriffer-github-repo](https://github.com/kriffer)
 
-
-[jekyll-organization]: https://github.com/jekyll

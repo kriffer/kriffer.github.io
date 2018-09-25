@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Anton Kravets aka @kriffer
+title: kriffer.github.io
 email: antonio.kravets@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    This is going to be some thoughts about Python and stuff related to it that come into mind while working on them. 
