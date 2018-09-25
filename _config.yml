@@ -17,7 +17,7 @@ title: Anton Kravets aka @kriffer
 email: antonio.kravets@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    This is going to be some thoughts about Python and stuff related to it that come into mind while working on them.
-Maybe something you will find useful, don't judge me strictly ;)  
+Maybe something you will find useful, well dont judge me strictly;)  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
